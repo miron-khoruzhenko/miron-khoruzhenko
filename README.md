@@ -9,6 +9,9 @@
 </a>
 </div>
 
+<!-- <a href="www.google.com">
+<img src="https://img.shields.io/badge/Instagram-darkblue?style=flat-square&logo=Instagram&logoColor=default" href="www.google.com">
+</a> -->
 <!--
 **miron-khoruzhenko/miron-khoruzhenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
