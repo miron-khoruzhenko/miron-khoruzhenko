@@ -2,22 +2,19 @@
 <h1 align="center"> Hi there, I'm Miron ☕️</h1>
 <div align="left">
 <a href="https://github.com/miron-khoruzhenko">
-	<img alt="Miron's GitHub stats" align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=miron-khoruzhenko&show_icons=true&count_private=true&text_color=adbac7&title_color=539bf5&icon_color=986ee2&bg_color=22272e&hide_border=true&border_radius=6px&theme=tokyonight&card_width=400" />
+	<img alt="Miron's GitHub stats" align="right" width='400px' src="https://github-readme-stats-sigma-five.vercel.app/api?username=miron-khoruzhenko&show_icons=true&count_private=true&text_color=adbac7&title_color=539bf5&icon_color=986ee2&bg_color=22272e&hide_border=true&border_radius=6px&theme=tokyonight&card_width=400" />
 </a>
 
 <a href="https://github.com/miron-khoruzhenko/?tab=repositories">
-	<img alt="Top Langs" align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miron-khoruzhenko&layout=compact&langs_count=10&text_color=adbac7&title_color=539bf5&icon_color=986ee2&bg_color=22272e&hide_border=true&border_radius=6px&theme=tokyonight&card_width=340" />
+	<img alt="Top Langs" align="right" width='400px' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miron-khoruzhenko&layout=compact&langs_count=10&text_color=adbac7&title_color=539bf5&icon_color=986ee2&bg_color=22272e&hide_border=true&border_radius=6px&theme=tokyonight&card_width=340" />
 </a>
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: mironkhoruzhenko@gmail.com
+- 🔭 I’m currently working on Sigma Aeronautics
+- 👯 I’m looking to collaborate on Frontend Dev.
+- 🤔 I’m looking for help with Ardupilot and PyMavlink
+- 🌱 I’m currently learning Computer Vision and Frontend Dev.
+- ⚡ Fun fact: I have never discharged the kinescope. Just like you...
 	
 ☕️
 	
