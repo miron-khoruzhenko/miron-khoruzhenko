@@ -6,17 +6,16 @@
 </a>
 
 <a href="https://github.com/miron-khoruzhenko/?tab=repositories">
-	<img alt="Top Langs" align="right" width='500px' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miron-khoruzhenko&layout=compact&langs_count=10&text_color=adbac7&title_color=539bf5&icon_color=986ee2&bg_color=22272e&hide_border=true&border_radius=6px&theme=tokyonight&card_width=340" />
+	<img alt="Top Langs" align="right" width='500px' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miron-khoruzhenko&layout=compact&langs_count=10&text_color=welcomeadbac7&title_color=539bf5&icon_color=986ee2&bg_color=22272e&hide_border=true&border_radius=6px&theme=tokyonight&card_width=340" />
 </a>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=miron-khoruzhenko&label=Profile%20views&color=blueviolet&style=flat" alt="professir" /> </p>
+	
 - 📫 How to reach me: mironkhoruzhenko@gmail.com
-- 🔭 I’m currently working on Sigma Aeronautics
+- 🔭 I’m currently working in Sigma Aeronautics
 - 👯 I’m looking to collaborate on Frontend Dev.
-- 🤔 I’m looking for help with Ardupilot and PyMavlink
-- 🌱 I’m currently learning Computer Vision and Frontend Dev.
+- 🌱 I’m currently learning Computer Vision and Web Dev.
 - ⚡ Fun fact: I have never discharged the kinescope. Just like you...
 	
-☕️
 	
 
 </div>
