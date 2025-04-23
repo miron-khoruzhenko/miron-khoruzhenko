@@ -15,9 +15,9 @@
 
 ---
 
-- 🔭 I’m currently working in Sigma Aeronautics
-- 👯 I’m looking to collaborate on Frontend Dev.
-- 🌱 I’m currently learning Computer Vision and Web Dev.
+- 🔭 I’m currently working in Orinium
+- 👯 I’m looking to collaborate on Fullstack Dev.
+- 🌱 I’m currently learning Embedded Systems, Autonomous Vehicles and Web Dev.
 - ⚡ Fun fact: I have never discharged the kinescope. Just like you...
 	
 
